@@ -10,7 +10,7 @@ function GoalItem({goal}) {
             </div>
             <h2>{goal.text}</h2>
             {
-            <img src="https://shorturl.at/bxFY6" onClick={() => dispatch(deleteGoal(goal._id)) } alt="delete-icon" className="delete" />}
+            <img src="https://i.imgur.com/AtJ5ZIm.png" onClick={() => dispatch(deleteGoal(goal._id)) } alt="delete-icon" className="delete" />}
         </div>
     )
 }

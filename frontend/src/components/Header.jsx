@@ -24,18 +24,18 @@ function Header() {
             <ul>
                 {user ? (<li>{
                 <div className="logout" onClick={onLogout}>
-                    <img src="https://shorturl.at/pW178" className="icon" alt="logout-icon" />Logout
+                    <img src="https://i.imgur.com/S8YDORy.png" className="icon" alt="logout-icon" />Logout
                 </div>}
             </li>) : (<>
             <li>
                 <Link to='/login'>
-                    <img src="https://shorturl.at/rBIS3" className="icon" alt="login-icon"/>Login
+                    <img src="https://i.imgur.com/2TgsxEo.png" className="icon" alt="login-icon"/>Login
                 </Link>
                 
             </li>
             <li>
                 <Link to='/register'>
-                    <img src="https://shorturl.at/owNSV" className="icon" alt="register-icon"/>Register
+                    <img src="https://i.imgur.com/7hWUnkw.png" className="icon" alt="register-icon"/>Register
                 </Link>
             </li>
                 

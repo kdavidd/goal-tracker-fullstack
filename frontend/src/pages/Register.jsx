@@ -62,7 +62,7 @@ function Register() {
     }
     return  <>
         <section className='heading'>
-            <img src="https://shorturl.at/owNSV" title='Create your account today and start tracking your goals!' className="icon-larger"/>
+            <img src="https://i.imgur.com/TA7nyeA.png" title='Create your account today and start tracking your goals!' className="icon-larger"/>
             <h1>Register</h1>
         </section>
         <section className='form'>
