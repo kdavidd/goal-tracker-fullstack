@@ -56,7 +56,7 @@ function Login() {
 
     return  <>
         <section className='heading'>
-            <img src="https://i.imgur.com/0NuTKSY.png" alt='login-icon' title='Login to your account and manage your goals!' className="icon-larger"/>
+            <img src="https://i.imgur.com/f0Y4gKv.png" alt='login-icon' title='Login to your account and manage your goals!' className="icon-larger"/>
             <h1>Log In</h1>
         </section>
         <section className='form'>
